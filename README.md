@@ -6,7 +6,9 @@
 <h2>My Testing Process</h2>
 <p>I ran multiple cycles over the past year to see how different SARMs performed. I measured progress through strength increases, endurance, and visible changes in muscle definition. I kept detailed logs of my workouts, side effects, and overall energy levels. Feedback from close gym friends and customers who used these compounds also helped me evaluate these products. With this background, here’s my detailed comparison between S23 and Andarine S-4.</p>
 
-<hr />
+
+![image](https://github.com/user-attachments/assets/f0a807b5-3289-4ae0-a4e7-35e8cb6ac964)
+
 
 <h2>S23</h2>
 <p>S23 is known for its potent androgen receptor binding properties. I first tried S23 when I was looking for a compound to help with fat burning and hardening my muscles. It is highly effective at boosting strength and overall hardness. This product is ideal for those who want an aggressive edge when cutting fat and improving definition.</p>
